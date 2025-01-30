@@ -1,4 +1,4 @@
-# -RFM-Analysis-for-Customer-Segmentation
+# RFM-Analysis-for-Customer-Segmentation
 RFM Analysis for Customer Segmentation applies the Recency, Frequency, and Monetary (RFM) model with K-Means clustering to classify customers based on purchasing behavior. This helps businesses optimize marketing, improve retention, and maximize revenue through targeted engagement strategies.
 
 This project focuses on customer segmentation using the RFM model (Recency, Frequency, Monetary Value) to drive targeted marketing strategies. By segmenting customers based on their purchasing behavior, this analysis has the potential to generate millions of dollars in revenue for the organization.
